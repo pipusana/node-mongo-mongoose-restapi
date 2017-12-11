@@ -1,0 +1,13 @@
+/node_modules
+/dist
+/coverage
+/test.js
+/exports
+.idea
+yarn.lock
+*.asta.bak
+package-lock.json
+application_error.log
+.vscode/
+composer.lock
+vendor/
