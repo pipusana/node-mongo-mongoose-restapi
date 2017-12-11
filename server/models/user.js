@@ -7,7 +7,7 @@ const User = mongoose.model('User', {
     trim: true,
     minlength: 1
   }
-});
+}, 'Todos');
 
 
 module.exports = {User};
